@@ -17,7 +17,7 @@ When you have a WordPress site that has a lot of visitors, and presumibly a lot 
 
 If you have a lot of published posts, you may have post revisions and auto-drafts saved in the database, that can slow down the database performances. All this data is considered junk and it should be cleaned frequently.
 
-<h3>Key Features</h3>
+<h4>Key Features</h4>
 
 * Delete post revisions
 * Delete auto drafts
@@ -28,10 +28,9 @@ If you have a lot of published posts, you may have post revisions and auto-draft
 * Delete categories with 0 posts associated
 * Delete trash posts
 
-<h3>More Information</h3>
+<h4>More Information</h4>
 
-For more details visit [the official plugin URL](http://www.wpmize.com/wordpress-plugins/optimize-wordpress-database-wp-database-cleaner/).
-
+For more details visit [the official plugin URL](http://www.wpmize.com/wordpress-plugins/optimize-wordpress-database-wp-database-cleaner/).<br />
 For more plugins and WordPress tips visit us at [wpmize.com](http://www.wpmize.com/).
 
 == Installation ==
