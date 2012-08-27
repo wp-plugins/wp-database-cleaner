@@ -11,7 +11,28 @@ Cleanup and optimize the database of WordPress sites.
 
 == Description ==
 
-WP Database Cleaner is a easy to use WordPress plugin that allow users to cleanup and optimize the WordPress database by removing all spam comments, trash comments, unused tags, post revisions, auto drafts, and much more. All these junk data can increase the size of the WordPress database making the backup files very big in size. For this reason we recommend to maintain a clean database.
+WP Database Cleaner is a easy to use WordPress plugin that allow users to quickly cleanup and optimize the WordPress database by removing all spam comments, trash comments, unused tags, post revisions, auto drafts, and much more. 
+
+When you have a WordPress site that has a lot of visitors, and presumibly a lot of comments, you may find that a high number of comments will be placed in the spam folder. It is not good to have 10k spam comments saved in the database, because all of these comments can increase consistently the size of the mysql database backups.
+
+If you have a lot of published posts, you may have post revisions and auto-drafts saved in the database, that can slow down the database performances. All this data is considered junk and it should be cleaned frequently.
+
+<h3>Key Features</h3>
+
+* Delete post revisions
+* Delete auto drafts
+* Delete pending comments
+* Delete spam comments
+* Delete trash comments
+* Delete tags with 0 posts associated
+* Delete categories with 0 posts associated
+* Delete trash posts
+
+<h3>More Information</h3>
+
+For more details visit [the official plugin URL](http://www.wpmize.com/wordpress-plugins/optimize-wordpress-database-wp-database-cleaner/).
+
+For more plugins and WordPress tips visit us at [wpmize.com](http://www.wpmize.com/).
 
 == Installation ==
 
@@ -27,7 +48,7 @@ It is always recommended that the first time you use WP Database Cleaner you mak
 
 == Screenshots ==
 
-See the file screenshot-1.png
+1. Main Interface.
 
 == Changelog ==
 
